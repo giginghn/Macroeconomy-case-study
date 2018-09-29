@@ -6,6 +6,7 @@ Techniques used in this project:
 Structural Vector Autoregressive (SVAR) to manipulate the time series data in R.
 
 Data source: http://www.macrohistory.net/ 
+I took the data from year 1870 to 2016 to analyze.
 
 Data Exploratory and analyzing process:
 1) Tests of stationarity (Dickey-Fuller test)
