@@ -13,3 +13,7 @@ Data Exploratory and analyzing process:
 2) Stationarize data
 3) Model estimation
 4) Result interpretation
+
+# New-Zealand-social-network-analysis
+
+In this project, I perused the social network analysis to analyze and suggest the next industries that New Zealand should focus on that could best benefit their economy and resources.
